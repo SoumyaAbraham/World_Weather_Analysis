@@ -31,14 +31,14 @@ We then export this into a .csv file which can be found here:
 
 ![heatmap](https://github.com/SoumyaAbraham/World_Weather_Analysis/blob/main/Screenshots/heatmap.png)  
 
-* Creating a new dataframe of cities based on User suggested Maximum and Minimum temperatures.   This dataframe is used to find Hotels (lodging) within 5000m of the marked locations. Google APIs are used for this purpose.  
+* Creating a new dataframe of cities based on User suggested Maximum and Minimum temperatures. This dataframe is used to find Hotels (lodging) within 5000m of the marked locations. Google APIs are used for this purpose.  
 
 ![hotel_df](https://github.com/SoumyaAbraham/World_Weather_Analysis/blob/main/Screenshots/hotel_df.png)  
 
 * We then export this into a .csv file which can be found here: 
 [WeatherPy_Vacation](https://github.com/SoumyaAbraham/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation.csv)
 
-* Lastly, we create a map with markers that had information box with Hotel Name, City, Country, Current Weather Description and Max Temp.  
+* Lastly, we create a map with markers that had information box with *Hotel Name, City, Country, Current Weather Description and Max Temp.*  
 
 ![WeatherPy_Vacation](https://github.com/SoumyaAbraham/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_Vacation_Map.png)
 
@@ -56,7 +56,7 @@ We then export this into a .csv file which can be found here:
 
 ![itinerary_df](https://github.com/SoumyaAbraham/World_Weather_Analysis/blob/main/Screenshots/itinerary_df.png)  
 
-* Lastly, we create a map with markers that had information box with Hotel Name, City, Country, Current Weather Description and Max Temp.  
+* Lastly, we create a map with markers that had information box with *Hotel Name, City, Country, Current Weather Description and Max Temp.*  
 
 ![WeatherPy_marker_map](https://github.com/SoumyaAbraham/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png.png)
 
